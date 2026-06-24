@@ -1,0 +1,203 @@
+ID, Name,Age,Gender,Email,City,Purchase_Amount,Duplicate_Flag,Duplicate_Flag(email),Age_Check, Email_Check,Purchase_amount_check,Final_Error_Flag
+101, Aman ,25, M , aman@gmail.com , Delhi ,2000,Duplicate,Unique,Correct,Correct,Correct,Error
+101, Ravi ,   , M , raviemail.com , Noida ,1500,Duplicate,Unique,Invalid,Invalid,Correct,Error
+102, Sita ,130, F , sita@gmail.com , Delhi ,3000,Unique,Unique,Invalid,Correct,Correct,Error
+103, Neha ,22, F , neha@gmail , Delhi ,2500,Unique,Unique,Correct,Invalid,Correct,Error
+106, Karan ,-5, M , karan@gmail.com , Mumbai ,1800,Duplicate,Duplicate,Invalid,Correct,Correct,Error
+105, ,28, F , pooja@gmail.com ,    ,2200,Unique,Unique,Correct,Correct,Correct,Clean
+106, Amit ,35, M , amit@gmail.com , Pune , ,Duplicate,Unique,Correct,Correct,Correct,Error
+106, Riya ,200, F , riya@gmail.com , Delhi ,2700,Duplicate,Unique,Invalid,Correct,Correct,Error
+108, Mohan ,40, M , mohan.com , Jaipur ,1600,Unique,Unique,Correct,Invalid,Correct,Error
+109, Tina ,27, F , tina@gmail.com , Delhi ,0,Unique,Unique,Correct,Correct,Correct,Clean
+110, Raj ,    , M , raj@gmail.com , Noida ,1400,Unique,Unique,Invalid,Correct,Correct,Error
+111, Simran ,26, F , simran@gmail , Delhi ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+112, Arjun ,29, M , arjun@gmail.com , Mumbai ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+113, Kavya ,-10, F , kavya@gmail.com , Pune ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+114, Rahul ,31, M , rahul@gmail , Delhi ,2500,Unique,Unique,Correct,Invalid,Correct,Error
+115, Sneha ,24, F , sneha@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+116, Varun ,150, M , varun@gmail.com , Jaipur ,2600,Unique,Unique,Invalid,Correct,Correct,Error
+117, Nisha ,23, F ,, Delhi ,1700,Unique,Unique,Correct,Invalid,Correct,Error
+118, Deepak ,36, M , deepak@gmail.com , Noida ,1900,Unique,Unique,Correct,Correct,Correct,Clean
+119, Aarti ,    , F , aarti@gmail.com , Delhi ,2100,Unique,Duplicate,Invalid,Correct,Correct,Error
+120, Rohit ,28, M , rohit@gmail.com , Delhi ,0,Unique,Unique,Correct,Correct,Correct,Clean
+121, Komal ,25, F , komal@gmail , Pune ,1800,Unique,Duplicate,Correct,Invalid,Correct,Error
+122, Sumit ,-2, M , sumit@gmail.com , Delhi ,2200,Unique,Unique,Invalid,Correct,Correct,Error
+123, Anjali ,27, F , anjali@gmail.com , Mumbai , ,Unique,Unique,Correct,Correct,Correct,Clean
+124, Vivek ,34, M , vivek.com , Delhi ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+125, Meena ,120, F , meena@gmail.com , Jaipur ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+126, Suresh ,45, M , suresh@gmail.com ,    ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+127, Rekha ,29, F , rekha@gmail , Delhi ,2500,Unique,Unique,Correct,Invalid,Correct,Error
+128, Ajay ,38, M , ajay@gmail.com , Noida , ,Unique,Unique,Correct,Correct,Correct,Clean
+129, Priya ,    , F , priya@gmail.com , Delhi ,2600,Unique,Unique,Invalid,Correct,Correct,Error
+130, Manish ,33, M , manish@gmail , Pune ,2700,Unique,Unique,Correct,Invalid,Correct,Error
+131, Sunita ,-8, F , sunita@gmail.com , Delhi ,1800,Unique,Unique,Invalid,Correct,Correct,Error
+132, Harsh ,26, M , harsh@gmail.com , Mumbai ,2000,Unique,Unique,Correct,Correct,Correct,Clean
+133, Payal ,22, F , payal.com , Delhi ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+134, Gaurav ,31, M , gaurav@gmail.com , Jaipur , ,Unique,Duplicate,Correct,Correct,Correct,Error
+135, Ramesh ,50, M , ramesh@gmail , Delhi ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+136, Pankaj ,140, M , pankaj@gmail.com , Noida ,2400,Unique,Duplicate,Invalid,Correct,Correct,Error
+137, Lata ,35, F , lata@gmail.com , Delhi ,2500,Unique,Unique,Correct,Correct,Correct,Clean
+138, Sonu ,    , M , sonu@gmail , Pune ,2600,Unique,Unique,Invalid,Invalid,Correct,Error
+139, Seema ,28, F , seema@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+140, Tarun ,-1, M , tarun@gmail.com , Mumbai ,2700,Unique,Unique,Invalid,Correct,Correct,Error
+141,  ,23, F , dolly@gmail , Delhi ,1800,Unique,Unique,Correct,Invalid,Correct,Error
+142, Naresh ,37, M , naresh@gmail.com , Jaipur ,1900,Unique,Unique,Correct,Correct,Correct,Clean
+143, Kiran ,26, F , kiran.com , Delhi ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+144, Umesh ,32, M , umesh@gmail.com , Noida , ,Unique,Unique,Correct,Correct,Correct,Clean
+145, Bhavna ,29, F , bhavna@gmail , Delhi ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+146, Anil ,41, M , anil@gmail.com , Pune ,2200,Unique,Unique,Correct,Correct,Correct,Clean
+147, Priti ,24, F , priti@gmail.com , Delhi ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+148, Lokesh ,36, M , lokesh@gmail , Mumbai , ,Unique,Unique,Correct,Invalid,Correct,Error
+149, Geeta ,130, F , geeta@gmail.com , Delhi ,2400,Unique,Unique,Invalid,Correct,Correct,Error
+150, Mukesh ,    , M , mukesh@gmail.com , Jaipur ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+151, Alok ,27, M , alok@gmail.com , Delhi ,2100,Unique,Unique,Correct,Correct,Correct,Clean
+152, Ritu ,    , F , , Noida ,1800,Unique,Unique,Invalid,Invalid,Correct,Error
+153, Sameer ,-3, M , sameer@gmail.com , Mumbai ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+154, Divya ,125, F , divya@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+155, Nitin ,30, M , nitin.com , Pune , ,Unique,Unique,Correct,Invalid,Correct,Error
+156, Shreya ,26, F , shreya@gmail.com ,,2400,Unique,Unique,Correct,Correct,Correct,Clean
+157, Yogesh ,41, M , yogesh@gmail.com , Jaipur ,0,Unique,Unique,Correct,Correct,Correct,Clean
+158, Pooja ,22, F , pooja@gmail , Delhi ,2100,Unique,Duplicate,Correct,Invalid,Correct,Error
+159, Kunal ,35, M , kunal@gmail.com , Noida , ,Unique,Duplicate,Correct,Correct,Correct,Error
+160, Rakesh ,    , M , rakesh@gmail.com , Delhi ,1900,Unique,Unique,Invalid,Correct,Correct,Error
+161, Asha ,28, F , asha@gmail , Mumbai ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+162, Mohit ,-6, M , mohit@gmail.com , Pune ,2200,Unique,Unique,Invalid,Correct,Correct,Error
+163, Rekha ,135, F , rekha@gmail.com , Delhi ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+164, Tarun ,32, M , tarun.com , Jaipur ,2600,Unique,Duplicate,Correct,Invalid,Correct,Error
+165, Suman ,29, F , suman@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+166, Deepika ,24, F , deepika@gmail , Noida ,1800,Unique,Unique,Correct,Invalid,Correct,Error
+167, Sanjay ,45, M , sanjay@gmail.com , Delhi ,0,Unique,Unique,Correct,Correct,Correct,Clean
+168, Anita ,    , F , anita@gmail.com , Pune ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+169, Vikas ,38, M , vikas@gmail , Delhi ,2300,Unique,Unique,Correct,Invalid,Correct,Error
+170, Renu ,27, F , renu.com , Mumbai ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+171, Manoj ,31, M , manoj@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+172, Neeraj ,140, M , neeraj@gmail.com , Jaipur ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+173, Priti ,23, F , priti@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+174, Akash ,-2, M , akash@gmail.com , Noida ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+175, Kanchan ,26, F , kanchan@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+176, Suraj ,34, M , suraj@gmail , Pune ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+177, Laxmi ,21, F , laxmi@gmail.com , Delhi ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+178, Gopal ,    , M , gopal@gmail.com , Jaipur ,2400,Unique,Unique,Invalid,Correct,Correct,Error
+179, Mehul ,36, M , mehul.com , Delhi , ,Unique,Unique,Correct,Invalid,Correct,Error
+180, Radha ,130, F , radha@gmail.com , Noida ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+181, Abhishek ,28, M , abhishek@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+182, Kavita ,-4, F , kavita@gmail.com , Mumbai ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+183, Hemant ,42, M , hemant@gmail.com , Pune , ,Unique,Unique,Correct,Correct,Correct,Clean
+184, Shalini ,25, F , shalini.com , Delhi ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+185, Jitendra ,39, M , jitendra@gmail , Jaipur ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+186, Nidhi ,    , F , nidhi@gmail.com , Delhi ,2300,Unique,Unique,Invalid,Correct,Correct,Error
+187, Rajesh ,33, M , rajesh@gmail.com , Noida ,0,Unique,Unique,Correct,Correct,Correct,Clean
+188, Sejal ,29, F , sejal@gmail , Delhi ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+189, Kapil ,150, M , kapil@gmail.com , Pune ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+190, Mona ,27, F , mona@gmail.com ,    , ,Unique,Unique,Correct,Correct,Correct,Clean
+191, Dinesh ,-7, M , dinesh@gmail.com , Delhi ,2600,Unique,Unique,Invalid,Correct,Correct,Error
+192, Bharti ,24, F , bharti@gmail , Mumbai ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+193, Tejas ,31, M , tejas.com , Delhi ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+194, Rupal ,26, F , rupal@gmail.com , Jaipur , ,Unique,Duplicate,Correct,Correct,Correct,Error
+195, Ashok ,    , M , ashok@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+196, Pankaj ,37, M , pankaj@gmail.com , Noida ,2400,Unique,Duplicate,Correct,Correct,Correct,Error
+197, Garima ,23, F , garima@gmail , Delhi ,2500,Unique,Unique,Correct,Invalid,Correct,Error
+198, Dev ,45, M , dev@gmail.com , Pune , ,Unique,Unique,Correct,Correct,Correct,Clean
+199, Chitra ,28, F , chitra.com , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+200, Omkar ,132, M , omkar@gmail.com , Jaipur ,2700,Unique,Unique,Invalid,Correct,Correct,Error
+201, Aarav ,29, M , aarav@gmail.com , Delhi ,2100,Unique,Unique,Correct,Correct,Correct,Clean
+202, Isha ,    , F , isha@gmail.com , Noida ,1800,Unique,Unique,Invalid,Correct,Correct,Error
+203, Kabir ,-5, M , kabir@gmail.com , Mumbai ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+204, Ananya ,140, F , ananya@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+205, Rohan ,32, M , rohan.com , Pune , ,Unique,Unique,Correct,Invalid,Correct,Error
+206, Mehak ,25, F , mehak@gmail.com ,    ,2400,Unique,Unique,Correct,Correct,Correct,Clean
+207, Yash ,41, M , yash@gmail.com , Jaipur ,0,Unique,Unique,Correct,Correct,Correct,Clean
+208, Tanvi ,22, F , tanvi@gmail , Delhi ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+209, Arnav ,35, M , arnav@gmail.com , Noida , ,Unique,Unique,Correct,Correct,Correct,Clean
+210, Nikhil ,    , M , nikhil@gmail.com , Delhi ,1900,Unique,Unique,Invalid,Correct,Correct,Error
+211, Muskan ,28, F , muskan@gmail , Mumbai ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+212, Saurabh ,-3, M , saurabh@gmail.com , Pune ,2200,Unique,Unique,Invalid,Correct,Correct,Error
+213, Radhika ,130, F , radhika@gmail.com , Delhi ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+214, Tushar ,31, M , tushar.com , Jaipur ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+215, Sakshi ,27, F , sakshi@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+216, Pranav ,24, M , pranav@gmail , Noida ,1800,Unique,Unique,Correct,Invalid,Correct,Error
+217, Harshit ,45, M , harshit@gmail.com , Delhi ,0,Unique,Unique,Correct,Correct,Correct,Clean
+218, Preeti ,    , F , preeti@gmail.com , Pune ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+219, Keshav ,38, M , keshav@gmail , Delhi ,2300,Unique,Unique,Correct,Invalid,Correct,Error
+220, Juhi ,26, F , juhi.com , Mumbai ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+221, Aditya ,30, M , aditya@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+222, Varsha ,150, F , varsha@gmail.com , Jaipur ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+223, Ritesh ,23, M , ritesh@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+224, Neelam ,-2, F , neelam@gmail.com , Noida ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+225, Devansh ,26, M , devansh@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+226, Kriti ,34, F , kriti@gmail , Pune ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+227, Gauri ,21, F , gauri@gmail.com , Delhi ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+228, Manav ,    , M , manav@gmail.com , Jaipur ,2400,Unique,Unique,Invalid,Correct,Correct,Error
+229, Parth ,36, M , parth.com , Delhi , ,Unique,Unique,Correct,Invalid,Correct,Error
+230, Bhumi ,125, F , bhumi@gmail.com , Noida ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+231, Aryan ,28, M , aryan@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+232, Ruchi ,-4, F , ruchi@gmail.com , Mumbai ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+233, Karan ,42, M , karan@gmail.com , Pune , ,Unique,Duplicate,Correct,Correct,Correct,Error
+234, Snehal ,25, F , snehal.com , Delhi ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+235, Vinay ,39, M , vinay@gmail , Jaipur ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+236, Shweta ,    , F , shweta@gmail.com , Delhi ,2300,Unique,Unique,Invalid,Correct,Correct,Error
+237, Ajit ,33, M , ajit@gmail.com , Noida ,0,Unique,Unique,Correct,Correct,Correct,Clean
+238, Rina ,29, F , rina@gmail , Delhi ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+239, Deep ,145, M , deep@gmail.com , Pune ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+240, Naina ,27, F , naina@gmail.com ,    , ,Unique,Unique,Correct,Correct,Correct,Clean
+241, Lokesh ,-6, M , lokesh@gmail.com , Delhi ,2600,Unique,Unique,Invalid,Correct,Correct,Error
+242, Pihu ,24, F , pihu@gmail , Mumbai ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+243, Kshitij ,31, M , kshitij.com , Delhi ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+244, Saloni ,26, F , saloni@gmail.com , Jaipur , ,Unique,Unique,Correct,Correct,Correct,Clean
+245, Ajay ,    , M , ajay@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+246, Mayank ,37, M , mayank@gmail.com , Noida ,2400,Unique,Unique,Correct,Correct,Correct,Clean
+247, Tanushree ,23, F , tanushree@gmail , Delhi ,2500,Unique,Unique,Correct,Invalid,Correct,Error
+248, Devika ,45, F , devika@gmail.com , Pune , ,Unique,Unique,Correct,Correct,Correct,Clean
+249, Rohit ,28, M , rohit.com , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+250, Om ,132, M , om@gmail.com , Jaipur ,2700,Unique,Unique,Invalid,Correct,Correct,Error
+251, Aditi ,26, F , aditi@gmail.com , Delhi ,2100,Unique,Unique,Correct,Correct,Correct,Clean
+252, Samar ,    , M , samar@gmail.com , Noida ,1800,Unique,Unique,Invalid,Correct,Correct,Error
+253, Naman ,-7, M , naman@gmail.com , Mumbai ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+254, Rashi ,135, F , rashi@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+255, Akhil ,30, M , akhil.com , Pune , ,Unique,Unique,Correct,Invalid,Correct,Error
+256, Diya ,22, F , diya@gmail.com ,    ,2400,Unique,Unique,Correct,Correct,Correct,Clean
+257, Ankit ,41, M , ankit@gmail.com , Jaipur ,0,Unique,Unique,Correct,Correct,Correct,Clean
+258, Poonam ,25, F , poonam@gmail , Delhi ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+259, Kunal ,35, M , kunal@gmail.com , Noida , ,Unique,Duplicate,Correct,Correct,Correct,Error
+260, Ramesh ,    , M , ramesh@gmail.com , Delhi ,1900,Unique,Unique,Invalid,Correct,Correct,Error
+261, Komal ,28, F , komal@gmail , Mumbai ,2000,Unique,Duplicate,Correct,Invalid,Correct,Error
+262, Vinit ,-3, M , vinit@gmail.com , Pune ,2200,Unique,Unique,Invalid,Correct,Correct,Error
+263, Heena ,130, F , heena@gmail.com , Delhi ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+264, Tarun ,31, M , tarun.com , Jaipur ,2600,Unique,Duplicate,Correct,Invalid,Correct,Error
+265, Sejal ,27, F , sejal@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+266, Prakash ,24, M , prakash@gmail , Noida ,1800,Unique,Unique,Correct,Invalid,Correct,Error
+267, Dheeraj ,45, M , dheeraj@gmail.com , Delhi ,0,Unique,Unique,Correct,Correct,Correct,Clean
+268, Alka ,    , F , alka@gmail.com , Pune ,2100,Unique,Unique,Invalid,Correct,Correct,Error
+269, Mohini ,38, F , mohini@gmail , Delhi ,2300,Unique,Unique,Correct,Invalid,Correct,Error
+270, Vikas ,26, M , vikas.com , Mumbai ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+271, Surbhi ,30, F , surbhi@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+272, Hitesh ,150, M , hitesh@gmail.com , Jaipur ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+273, Prerna ,23, F , prerna@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+274, Gagan ,-2, M , gagan@gmail.com , Noida ,2000,Unique,Unique,Invalid,Correct,Correct,Error
+275, Nupur ,26, F , nupur@gmail.com , Delhi , ,Unique,Unique,Correct,Correct,Correct,Clean
+276, Sandeep ,34, M ,, Pune ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+277, Kajal ,21, F , kajal@gmail.com , Delhi ,2300,Unique,Unique,Correct,Correct,Correct,Clean
+278, ,    , F , rohini@gmail.com , Jaipur ,2400,Unique,Unique,Invalid,Correct,Correct,Error
+279, Lalit ,36, M , lalit.com , Delhi , ,Unique,Unique,Correct,Invalid,Correct,Error
+280, Meera ,125, F , meera@gmail.com , Noida ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+281, Aman ,28, M , aman@gmail , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+282, Rupal ,-4, F , rupal@gmail.com , Mumbai ,2100,Unique,Duplicate,Invalid,Correct,Correct,Error
+283, Nilesh ,42, M , nilesh@gmail.com , Pune , ,Unique,Unique,Correct,Correct,Correct,Clean
+284, Sangeeta ,25, F , sangeeta.com , Delhi ,2000,Unique,Unique,Correct,Invalid,Correct,Error
+285, Jatin ,39, M , jatin@gmail , Jaipur ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+286, Bindu ,    , F , bindu@gmail.com , Delhi ,2300,Unique,Unique,Invalid,Correct,Correct,Error
+287, Piyush ,33, M , piyush@gmail.com , Noida ,0,Unique,Unique,Correct,Correct,Correct,Clean
+288, Ruchi ,29, F , ruchi@gmail , Delhi ,2400,Unique,Unique,Correct,Invalid,Correct,Error
+289, Deepika ,145, F , deepika@gmail.com , Pune ,2500,Unique,Unique,Invalid,Correct,Correct,Error
+290, Tanu ,27, F , tanu@gmail.com ,    , ,Unique,Unique,Correct,Correct,Correct,Clean
+291, Karan ,-6, M , karan@gmail.com , Delhi ,2600,Unique,Duplicate,Invalid,Correct,Correct,Error
+292, Sneha ,24, F , sneha@gmail , Mumbai ,2100,Unique,Unique,Correct,Invalid,Correct,Error
+293, Anuj ,31, M , anuj.com , Delhi ,2200,Unique,Unique,Correct,Invalid,Correct,Error
+294, Aarti ,26, F , aarti@gmail.com , Jaipur , ,Unique,Duplicate,Correct,Correct,Correct,Error
+295, Mukesh ,    , M , mukesh@gmail , Delhi ,2300,Unique,Unique,Invalid,Invalid,Correct,Error
+296, Gaurav ,37, M , gaurav@gmail.com , Noida ,2400,Unique,Duplicate,Correct,Correct,Correct,Error
+297, Pooja ,23, F , pooja@gmail , Delhi ,2500,Unique,Duplicate,Correct,Invalid,Correct,Error
+298, Vimal ,45, M , vimal@gmail.com , Pune , ,Unique,Unique,Correct,Correct,Correct,Clean
+299, Neha ,28, F , neha.com , Delhi ,2600,Unique,Unique,Correct,Invalid,Correct,Error
+300, Rajat ,132, M , rajat@gmail.com , Jaipur ,2700,Unique,Unique,Invalid,Correct,Correct,Error
+301,Anurag,123,M,Anu@gmail.com,Delhi,1345,Unique,Unique,Invalid,Correct,Correct,Error
